@@ -22,3 +22,4 @@ The goal is to extend the game:
   - add commands (pick, drop, examine, read, ...)
   - (anything you can think of, really...)
 
+testing changelog generation ignore 
