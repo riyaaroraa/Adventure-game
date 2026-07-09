@@ -1,4 +1,5 @@
 #BlueJ class context
+#test for new project sorry lol
 comment0.target=Item
 comment0.text=\n\ Class\ Item\ -\ an\ item\ that\ could\ be\ placed\ in\ each\ room.\n\n\ @author\ Riya\ Arora\ (101190033)\n\ @version\ June\ 15,\ 2022\n
 comment1.params=description\ weight
